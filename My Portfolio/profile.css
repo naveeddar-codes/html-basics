@@ -110,6 +110,7 @@ p{
     display: flex;
     justify-content: center;
     align-items: center;
+
      width: 100%;
     background-color: #fafafa;
     border-radius: 8px;
@@ -118,7 +119,7 @@ p{
 }
 .git a, .inked a{
     display: flex;
-    margin: 6px;
+    margin: 10px;
     text-decoration:none;
     color: black;
 }
